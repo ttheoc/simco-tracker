@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-26",
+  "warehouse": {
+    "cash": 7741950,
+    "Processors": {"Q4": 2064362},
+    "Displays": {"Q6": 96379, "Q5": 88851, "Q4": 905709},
+    "Batteries": {"Q6": 80895, "Q4": 413816},
+    "ElectronicComponents": {"Q6": 7743, "Q5": 40788, "Q4": 319200},
+    "Silicon": {"Q12": 118849, "Q6": 16154, "Q5": 1250000, "Q4": 3468582, "Q3": 7983896},
+    "Chemicals": {"Q12": 627, "Q8": 162279, "Q6": 12565, "Q5": 555534, "Q4": 4740857, "Q3": 1141763},
+    "Aluminium": {"Q6": 217053, "Q5": 735629, "Q4": 2580459},
+    "BoardComputer": {"Q5": 76957}
+  },
+  "last7days": {
+    "Silicon": {"Verbrauch": 1956736, "Vertragskauf": 1410000},
+    "Chemicals": {"Verbrauch": 614976, "Marktkauf": 125274},
+    "Processors": {"Verbrauch": 335424, "Produktion": 222832},
+    "ElectronicComponents": {"Verbrauch": 503136, "Produktion": 503168},
+    "BoardComputer": {"Produktion": 83568, "Verkaufsvertrag": 61500, "Marktverkauf": 10000}
+  },
+  "note": "Erster Log-Eintrag, Start des Tablet-Zertifikat-Trackings"
+}
