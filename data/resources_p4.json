@@ -1,0 +1,49 @@
+{
+	"metadata": {
+		"currentPage": 4,
+		"pageSize": 50,
+		"firstPage": 1,
+		"lastPage": 4,
+		"totalRecords": 151
+	},
+	"phase": "recession",
+	"resources": [
+		{
+			"id": 144,
+			"isResearch": false,
+			"transportation": 0.5,
+			"name": "Xmas ornament",
+			"producedAnHour": 194.59991422050214,
+			"wages": 414,
+			"inputs": {
+				"14": {
+					"name": "Minerals",
+					"quantity": 0.25
+				},
+				"18": {
+					"name": "Aluminium",
+					"quantity": 0.125
+				},
+				"45": {
+					"name": "Glass",
+					"quantity": 0.5
+				}
+			},
+			"retailInfo": [
+				{
+					"quality": 0,
+					"buildingLevelsNeededPerUnitPerHour": 0.021797073001285274,
+					"modeledProductionCostPerUnit": 8.435213774383472,
+					"modeledStoreWages": 265.65,
+					"modeledUnitsSoldAnHour": 70,
+					"retailModelingQualityWeight": 0.3,
+					"retailAdjustment": 1,
+					"averagePrice": 23.942404830640676,
+					"saturation": 0.877224892011327,
+					"salesWages": 241.49999999999997
+				}
+			]
+		}
+	],
+	"type": "all"
+}
