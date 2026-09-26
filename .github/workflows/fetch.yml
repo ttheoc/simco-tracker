@@ -35,9 +35,13 @@ jobs:
           sleep 1
           curl -s "https://api.simcotools.com/v1/realms/0/market/prices/17" -o data/price_chemikalien.json
           sleep 1
+          curl -s "https://api.simcotools.com/v1/realms/0/market/prices/47" -o data/price_boardcomputer.json
+          sleep 1
           curl -s "https://api.simcotools.com/v1/realms/0/market/vwaps/16" -o data/vwap_silizium.json
           sleep 1
           curl -s "https://api.simcotools.com/v1/realms/0/market/vwaps/17" -o data/vwap_chemikalien.json
+          sleep 1
+          curl -s "https://api.simcotools.com/v1/realms/0/market/vwaps/47" -o data/vwap_boardcomputer.json
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
