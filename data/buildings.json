@@ -1,0 +1,212 @@
+{
+	"buildings": [
+		{
+			"id": "y",
+			"name": "Academy"
+		},
+		{
+			"id": "8",
+			"name": "Aerospace electronics"
+		},
+		{
+			"id": "7",
+			"name": "Aerospace factory"
+		},
+		{
+			"id": "a",
+			"name": "Automotive R\u0026D"
+		},
+		{
+			"id": "j",
+			"name": "Bakery"
+		},
+		{
+			"id": "n",
+			"name": "Bank"
+		},
+		{
+			"id": "z",
+			"name": "Beach market"
+		},
+		{
+			"id": "6",
+			"name": "Beverage factory"
+		},
+		{
+			"id": "b",
+			"name": "Breeding laboratory"
+		},
+		{
+			"id": "2",
+			"name": "Car dealership"
+		},
+		{
+			"id": "1",
+			"name": "Car factory"
+		},
+		{
+			"id": "m",
+			"name": "Catering"
+		},
+		{
+			"id": "c",
+			"name": "Chemistry laboratory"
+		},
+		{
+			"id": "o",
+			"name": "Concrete plant"
+		},
+		{
+			"id": "x",
+			"name": "Construction factory"
+		},
+		{
+			"id": "L",
+			"name": "Electronics factory"
+		},
+		{
+			"id": "C",
+			"name": "Electronics store"
+		},
+		{
+			"id": "Y",
+			"name": "Factory"
+		},
+		{
+			"id": "P",
+			"name": "Farm"
+		},
+		{
+			"id": "f",
+			"name": "Fashion \u0026 Design"
+		},
+		{
+			"id": "T",
+			"name": "Fashion factory"
+		},
+		{
+			"id": "H",
+			"name": "Fashion store"
+		},
+		{
+			"id": "k",
+			"name": "Food processing plant"
+		},
+		{
+			"id": "v",
+			"name": "Forest nursery"
+		},
+		{
+			"id": "A",
+			"name": "Gas station"
+		},
+		{
+			"id": "g",
+			"name": "General contractor"
+		},
+		{
+			"id": "G",
+			"name": "Grocery store"
+		},
+		{
+			"id": "t",
+			"name": "Halloween market"
+		},
+		{
+			"id": "0",
+			"name": "Hangar"
+		},
+		{
+			"id": "d",
+			"name": "Hardware store"
+		},
+		{
+			"id": "q",
+			"name": "Kitchen"
+		},
+		{
+			"id": "5",
+			"name": "Lake"
+		},
+		{
+			"id": "l",
+			"name": "Launch pad"
+		},
+		{
+			"id": "i",
+			"name": "Mill"
+		},
+		{
+			"id": "M",
+			"name": "Mine"
+		},
+		{
+			"id": "O",
+			"name": "Oil rig"
+		},
+		{
+			"id": "4",
+			"name": "Park"
+		},
+		{
+			"id": "h",
+			"name": "Physics laboratory"
+		},
+		{
+			"id": "p",
+			"name": "Plant research center"
+		},
+		{
+			"id": "E",
+			"name": "Power plant"
+		},
+		{
+			"id": "D",
+			"name": "Propulsion factory"
+		},
+		{
+			"id": "Q",
+			"name": "Quarry"
+		},
+		{
+			"id": "F",
+			"name": "Ranch"
+		},
+		{
+			"id": "R",
+			"name": "Refinery"
+		},
+		{
+			"id": "r",
+			"name": "Restaurant"
+		},
+		{
+			"id": "B",
+			"name": "Sales offices"
+		},
+		{
+			"id": "S",
+			"name": "Shipping depot"
+		},
+		{
+			"id": "e",
+			"name": "Slaughterhouse"
+		},
+		{
+			"id": "s",
+			"name": "Software R\u0026D"
+		},
+		{
+			"id": "I",
+			"name": "Spring market"
+		}
+	],
+	"metadata": {
+		"currentPage": 1,
+		"pageSize": 50,
+		"firstPage": 1,
+		"lastPage": 2,
+		"totalRecords": 54
+	},
+	"type": "all"
+}
