@@ -19,9 +19,9 @@ jobs:
           sleep 1
           curl -s "https://api.simcotools.com/v1/realms/0/companies/755861/history" -o data/history.json
           sleep 1
-          curl -s "https://api.simcotools.com/v1/realms/0/buildings" -o data/buildings.json
+          curl -s "https://api.simcotools.com/v1/realms/0/buildings?disable_pagination=true" -o data/buildings.json
           sleep 1
-          curl -s "https://api.simcotools.com/v1/realms/0/resources" -o data/resources.json
+          curl -s "https://api.simcotools.com/v1/realms/0/resources?page=1&page_size=200" -o data/resources.json
           sleep 1
           curl -s "https://api.simcotools.com/v1/realms/0/market/prices/16" -o data/price_silizium.json
           sleep 1
