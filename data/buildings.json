@@ -199,13 +199,25 @@
 		{
 			"id": "I",
 			"name": "Spring market"
+		},
+		{
+			"id": "3",
+			"name": "Temple"
+		},
+		{
+			"id": "9",
+			"name": "Vertical integration facility"
+		},
+		{
+			"id": "W",
+			"name": "Water reservoir"
+		},
+		{
+			"id": "u",
+			"name": "Xmas market"
 		}
 	],
 	"metadata": {
-		"currentPage": 1,
-		"pageSize": 50,
-		"firstPage": 1,
-		"lastPage": 2,
 		"totalRecords": 54
 	},
 	"type": "all"
