@@ -1,0 +1,58 @@
+{
+	"vwaps": [
+		{
+			"resourceId": 47,
+			"quality": 0,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 449.85
+		},
+		{
+			"resourceId": 47,
+			"quality": 1,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 465.46744
+		},
+		{
+			"resourceId": 47,
+			"quality": 2,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 467.95688
+		},
+		{
+			"resourceId": 47,
+			"quality": 3,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 473.1851
+		},
+		{
+			"resourceId": 47,
+			"quality": 4,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 483.54025
+		},
+		{
+			"resourceId": 47,
+			"quality": 5,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 485.91382
+		},
+		{
+			"resourceId": 47,
+			"quality": 6,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 497.58344
+		},
+		{
+			"resourceId": 47,
+			"quality": 7,
+			"datetime": "2026-09-25T00:00:00Z",
+			"vwap": 526.5848
+		},
+		{
+			"resourceId": 47,
+			"quality": 8,
+			"datetime": "2026-09-23T00:00:00Z",
+			"vwap": 516.65686
+		}
+	]
+}
