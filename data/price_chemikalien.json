@@ -3,68 +3,80 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-09-28T12:48:54.186469Z",
-			"price": 14.9
+			"datetime": "2026-09-29T12:02:29.608134Z",
+			"price": 14.6
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-09-28T12:48:54.186469Z",
-			"price": 15.1
+			"datetime": "2026-09-29T11:27:30.290575Z",
+			"price": 15.2
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-09-28T12:43:22.89691Z",
-			"price": 15
+			"datetime": "2026-09-29T12:04:53.503683Z",
+			"price": 14.3
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-09-28T12:31:09.211627Z",
+			"datetime": "2026-09-29T12:00:15.2421Z",
 			"price": 15.1
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-09-28T12:46:22.757697Z",
+			"datetime": "2026-09-29T11:57:00.943515Z",
 			"price": 15.2
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-09-28T12:39:00.516311Z",
-			"price": 15.3
+			"datetime": "2026-09-29T11:48:23.487823Z",
+			"price": 15.5
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-09-28T12:38:51.886387Z",
-			"price": 15.2
+			"datetime": "2026-09-29T11:46:39.35818Z",
+			"price": 15.5
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-09-28T09:01:32.143208Z",
-			"price": 15.6
+			"datetime": "2026-09-29T11:06:30.309831Z",
+			"price": 15.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-09-28T10:57:59.113752Z",
-			"price": 14.8
+			"datetime": "2026-09-29T02:01:46.643664Z",
+			"price": 15.7
 		},
 		{
 			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-09-28T03:01:10.257187Z",
-			"price": 16.4
+			"datetime": "2026-09-29T03:13:30.727058Z",
+			"price": 15.8
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-09-27T19:01:59.336835Z",
-			"price": 16.9
+			"datetime": "2026-09-29T01:05:36.033498Z",
+			"price": 15.9
+		},
+		{
+			"resourceId": 17,
+			"quality": 11,
+			"datetime": "2026-09-29T01:06:01.456677Z",
+			"price": 18
+		},
+		{
+			"resourceId": 17,
+			"quality": 12,
+			"datetime": "2026-09-29T01:05:27.548072Z",
+			"price": 18.9
 		}
 	]
 }
