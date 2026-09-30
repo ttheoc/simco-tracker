@@ -3,74 +3,80 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 14.814304
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 14.769114
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 14.846007
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 14.948919
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 14.98473
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.059236
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 15.188108
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.15277
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 15.234339
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.231107
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 15.22912
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.357651
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 15.394968
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.462343
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 15.408713
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.286558
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 14.8000145
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.7
 		},
 		{
 			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-09-28T00:00:00Z",
-			"vwap": 16.13176
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.8
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-09-27T00:00:00Z",
-			"vwap": 16.07549
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 15.9
+		},
+		{
+			"resourceId": 17,
+			"quality": 11,
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 18
 		},
 		{
 			"resourceId": 17,
 			"quality": 12,
-			"datetime": "2026-09-25T00:00:00Z",
-			"vwap": 19
+			"datetime": "2026-09-29T00:00:00Z",
+			"vwap": 18.9
 		}
 	]
 }
