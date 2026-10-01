@@ -1,6 +1,29 @@
 {
 	"history": [
 		{
+			"date": "2026-10-01T00:00:00Z",
+			"rank": 396,
+			"rankDiff": -4,
+			"evaRank": 26334,
+			"evaRankDiff": 167,
+			"value": 983098022,
+			"valueDiff": -3283203,
+			"valuePctChange": -0.003328533549490462,
+			"buildingsValue": 17964150,
+			"buildingsValueDiff": 0,
+			"buildingsValuePctChange": 0,
+			"patentsValue": 303613200,
+			"patentsValueDiff": 0,
+			"patentsValuePctChange": 0,
+			"workers": 21300,
+			"workersDiff": 0,
+			"workersPctChange": 0,
+			"bondsSold": 7595000,
+			"bondsSoldDiff": 0,
+			"bondsSoldPctChange": 0,
+			"fetched": true
+		},
+		{
 			"date": "2026-09-30T00:00:00Z",
 			"rank": 392,
 			"rankDiff": 3,
@@ -1126,29 +1149,6 @@
 			"bondsSoldDiff": 0,
 			"bondsSoldPctChange": 0,
 			"fetched": true
-		},
-		{
-			"date": "2026-08-12T00:00:00Z",
-			"rank": 374,
-			"rankDiff": -5,
-			"evaRank": 25165,
-			"evaRankDiff": -77,
-			"value": 971582466,
-			"valueDiff": -5831897,
-			"valuePctChange": -0.005966657766415491,
-			"buildingsValue": 17964150,
-			"buildingsValueDiff": 0,
-			"buildingsValuePctChange": 0,
-			"patentsValue": 303613200,
-			"patentsValueDiff": 0,
-			"patentsValuePctChange": 0,
-			"workers": 21300,
-			"workersDiff": 0,
-			"workersPctChange": 0,
-			"bondsSold": 0,
-			"bondsSoldDiff": 0,
-			"bondsSoldPctChange": 0,
-			"fetched": true
 		}
 	],
 	"metadata": {
@@ -1156,7 +1156,7 @@
 		"pageSize": 50,
 		"firstPage": 1,
 		"lastPage": 38,
-		"totalRecords": 1858
+		"totalRecords": 1859
 	},
 	"period": "day"
 }
