@@ -3,56 +3,62 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-10-05T13:34:53.519169Z",
-			"price": 7.1
+			"datetime": "2026-10-06T12:43:30.935756Z",
+			"price": 7.2
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-10-05T13:35:01.944254Z",
+			"datetime": "2026-10-06T12:38:58.81738Z",
 			"price": 7.2
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-10-05T13:30:32.25275Z",
-			"price": 7.4
+			"datetime": "2026-10-06T12:40:30.473535Z",
+			"price": 7.3
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-10-05T13:04:53.562792Z",
+			"datetime": "2026-10-06T12:33:23.121516Z",
 			"price": 7.5
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-10-05T13:05:02.945193Z",
+			"datetime": "2026-10-06T12:43:58.342694Z",
 			"price": 7.6
 		},
 		{
 			"resourceId": 16,
 			"quality": 5,
-			"datetime": "2026-10-05T12:40:53.941976Z",
-			"price": 7.8
+			"datetime": "2026-10-06T12:10:38.049563Z",
+			"price": 7.6
 		},
 		{
 			"resourceId": 16,
 			"quality": 6,
-			"datetime": "2026-10-05T11:03:47.414236Z",
-			"price": 7.8
+			"datetime": "2026-10-06T12:43:58.342694Z",
+			"price": 7.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-10-05T12:58:07.907118Z",
-			"price": 7.9
+			"datetime": "2026-10-06T12:43:58.342694Z",
+			"price": 7.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 8,
-			"datetime": "2026-10-04T03:33:03.322815Z",
-			"price": 8
+			"datetime": "2026-10-06T00:16:33.111745Z",
+			"price": 7.7
+		},
+		{
+			"resourceId": 16,
+			"quality": 9,
+			"datetime": "2026-10-06T07:17:59.918982Z",
+			"price": 7.8
 		},
 		{
 			"resourceId": 16,
@@ -63,14 +69,14 @@
 		{
 			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-10-05T10:09:03.331029Z",
-			"price": 8
+			"datetime": "2026-10-06T12:43:58.526428Z",
+			"price": 7.8
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-10-05T01:08:25.601996Z",
-			"price": 8.1
+			"datetime": "2026-10-06T02:38:37.366745Z",
+			"price": 7.8
 		}
 	]
 }
