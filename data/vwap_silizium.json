@@ -3,61 +3,61 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.406097
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.2741513
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.5055323
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.3524504
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.5490475
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.458658
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.5831723
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.5559697
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.7352576
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.665771
 		},
 		{
 			"resourceId": 16,
 			"quality": 5,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.7921844
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.670735
 		},
 		{
 			"resourceId": 16,
 			"quality": 6,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.823988
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.678843
 		},
 		{
 			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.9
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.7217865
 		},
 		{
 			"resourceId": 16,
 			"quality": 8,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.763648
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 9,
-			"datetime": "2026-10-05T00:00:00Z",
+			"datetime": "2026-10-06T00:00:00Z",
 			"vwap": 7.8
 		},
 		{
@@ -69,14 +69,14 @@
 		{
 			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 7.9934344
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.8455443
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 8.0782995
+			"datetime": "2026-10-06T00:00:00Z",
+			"vwap": 7.9028063
 		}
 	]
 }

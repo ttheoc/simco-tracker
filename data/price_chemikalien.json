@@ -3,73 +3,73 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-10-06T12:43:39.955318Z",
-			"price": 14.2
+			"datetime": "2026-10-07T12:31:00.227553Z",
+			"price": 14.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-10-06T12:33:50.502725Z",
-			"price": 14.5
+			"datetime": "2026-10-07T12:34:15.643113Z",
+			"price": 14.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-10-06T12:43:10.261952Z",
-			"price": 14.3
+			"datetime": "2026-10-07T12:31:49.507756Z",
+			"price": 14.7
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-10-06T12:40:00.470107Z",
+			"datetime": "2026-10-07T12:22:38.485963Z",
 			"price": 14.6
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-10-06T12:43:59.168182Z",
-			"price": 14.7
-		},
-		{
-			"resourceId": 17,
-			"quality": 5,
-			"datetime": "2026-10-06T11:40:41.022243Z",
+			"datetime": "2026-10-07T12:22:38.485963Z",
 			"price": 14.6
 		},
 		{
 			"resourceId": 17,
-			"quality": 6,
-			"datetime": "2026-10-06T12:17:26.173728Z",
+			"quality": 5,
+			"datetime": "2026-10-07T12:34:41.711303Z",
 			"price": 14.8
 		},
 		{
 			"resourceId": 17,
+			"quality": 6,
+			"datetime": "2026-10-07T10:40:23.158245Z",
+			"price": 15
+		},
+		{
+			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-10-06T01:50:33.445948Z",
+			"datetime": "2026-10-07T03:46:40.419547Z",
 			"price": 15.2
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-10-06T12:40:00.470107Z",
-			"price": 14.5
+			"datetime": "2026-10-06T20:02:56.25886Z",
+			"price": 15.1
 		},
 		{
 			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-10-06T03:18:49.515922Z",
+			"datetime": "2026-10-07T03:46:20.341617Z",
 			"price": 15.3
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-10-05T15:14:30.43199Z",
+			"datetime": "2026-10-07T11:04:21.799799Z",
 			"price": 15.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 11,
-			"datetime": "2026-10-06T06:02:15.490139Z",
+			"datetime": "2026-10-06T16:04:45.8347Z",
 			"price": 15.4
 		},
 		{
