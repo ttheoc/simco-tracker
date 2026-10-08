@@ -3,68 +3,68 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 14.551703
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.327958
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 14.611181
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.4887295
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 14.6257305
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.501764
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 14.714452
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.592046
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 14.793085
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.758457
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 14.944025
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.906071
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 15.001311
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.975181
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 15.086508
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.9269495
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 14.954808
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.993548
 		},
 		{
 			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 15.263282
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 14.691197
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-10-06T00:00:00Z",
-			"vwap": 15.4
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 15.28746
 		},
 		{
 			"resourceId": 17,
@@ -75,8 +75,8 @@
 		{
 			"resourceId": 17,
 			"quality": 12,
-			"datetime": "2026-10-05T00:00:00Z",
-			"vwap": 22
+			"datetime": "2026-10-07T00:00:00Z",
+			"vwap": 15
 		}
 	]
 }
