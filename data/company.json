@@ -10,10 +10,10 @@
 		"dateJoined": "2020-12-10T21:30:27.78274Z",
 		"dateReset": "0001-01-01T00:00:00Z",
 		"country": "DE",
-		"rank": 416,
-		"evaRank": 25769,
+		"rank": 419,
+		"evaRank": 25598,
 		"rating": "AAA",
-		"value": 946978954,
+		"value": 942399667,
 		"buildingValue": 17964150,
 		"totalBuildings": 19,
 		"workers": 21300,
@@ -26,6 +26,6 @@
 			"t": 1,
 			"y": 1
 		},
-		"updatedAt": "2026-10-11T00:00:00Z"
+		"updatedAt": "2026-10-12T00:00:00Z"
 	}
 }

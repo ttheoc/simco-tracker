@@ -3,74 +3,74 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-10-11T11:59:20.235365Z",
-			"price": 7.4
+			"datetime": "2026-10-12T14:23:05.021783Z",
+			"price": 7.1
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-10-11T11:59:20.235365Z",
-			"price": 7.4
+			"datetime": "2026-10-12T14:19:42.288119Z",
+			"price": 7.1
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-10-11T11:56:56.719054Z",
-			"price": 7.4
+			"datetime": "2026-10-12T14:03:07.516949Z",
+			"price": 7.3
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-10-11T11:59:11.724625Z",
-			"price": 7.4
+			"datetime": "2026-10-12T14:16:30.172584Z",
+			"price": 7.2
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-10-11T11:59:11.724625Z",
+			"datetime": "2026-10-12T13:27:48.962987Z",
 			"price": 7.5
 		},
 		{
 			"resourceId": 16,
 			"quality": 5,
-			"datetime": "2026-10-11T11:34:11.616049Z",
+			"datetime": "2026-10-12T14:10:37.76933Z",
 			"price": 7.6
 		},
 		{
 			"resourceId": 16,
 			"quality": 6,
-			"datetime": "2026-10-11T10:56:51.528113Z",
-			"price": 7.6
+			"datetime": "2026-10-12T14:23:35.252246Z",
+			"price": 7.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-10-11T09:27:47.738614Z",
+			"datetime": "2026-10-12T04:45:58.163313Z",
 			"price": 7.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 8,
-			"datetime": "2026-10-11T04:26:04.233618Z",
+			"datetime": "2026-10-11T23:12:37.565497Z",
 			"price": 7.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 9,
-			"datetime": "2026-10-11T10:32:40.682524Z",
+			"datetime": "2026-10-12T08:10:36.511306Z",
 			"price": 7.8
 		},
 		{
 			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-10-11T07:34:00.843109Z",
+			"datetime": "2026-10-12T07:04:52.974392Z",
 			"price": 7.8
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-10-11T11:02:14.382477Z",
-			"price": 7.9
+			"datetime": "2026-10-12T07:04:52.974392Z",
+			"price": 7.8
 		}
 	]
 }

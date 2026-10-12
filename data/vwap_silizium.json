@@ -3,80 +3,74 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.1975317
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.13034
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.3623085
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.26995
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.430251
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.3408713
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.5041394
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.404733
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.558791
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.506773
 		},
 		{
 			"resourceId": 16,
 			"quality": 5,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.698019
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.5503488
 		},
 		{
 			"resourceId": 16,
 			"quality": 6,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.7653365
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.6069603
 		},
 		{
 			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.8
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.6430984
 		},
 		{
 			"resourceId": 16,
 			"quality": 8,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.9
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 9,
-			"datetime": "2026-10-10T00:00:00Z",
+			"datetime": "2026-10-11T00:00:00Z",
 			"vwap": 7.8
 		},
 		{
 			"resourceId": 16,
-			"quality": 10,
-			"datetime": "2026-10-04T00:00:00Z",
-			"vwap": 8.1
-		},
-		{
-			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.9
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.788287
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-10-10T00:00:00Z",
-			"vwap": 7.9044805
+			"datetime": "2026-10-11T00:00:00Z",
+			"vwap": 7.801396
 		}
 	]
 }
