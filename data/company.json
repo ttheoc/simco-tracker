@@ -11,9 +11,9 @@
 		"dateReset": "0001-01-01T00:00:00Z",
 		"country": "DE",
 		"rank": 418,
-		"evaRank": 26101,
+		"evaRank": 26006,
 		"rating": "AAA",
-		"value": 942017271,
+		"value": 942019828,
 		"buildingValue": 17964150,
 		"totalBuildings": 19,
 		"workers": 21300,
@@ -26,6 +26,6 @@
 			"t": 1,
 			"y": 1
 		},
-		"updatedAt": "2026-10-14T00:00:00Z"
+		"updatedAt": "2026-10-15T00:00:00Z"
 	}
 }
