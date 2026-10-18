@@ -106,8 +106,8 @@
 					"modeledUnitsSoldAnHour": 50,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 13.034149350002865,
-					"saturation": 1.517360692797917,
+					"averagePrice": 12.773704195946841,
+					"saturation": 1.535044668814102,
 					"salesWages": 207
 				}
 			]
@@ -181,8 +181,8 @@
 					"modeledUnitsSoldAnHour": 1,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 1268.9329144833648,
-					"saturation": 0.7517836380857038,
+					"averagePrice": 1278.856569401292,
+					"saturation": 0.7535842124131559,
 					"salesWages": 172.5
 				}
 			]
@@ -221,8 +221,8 @@
 					"modeledUnitsSoldAnHour": 40,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 186.11891737891736,
-					"saturation": 1.3361728065342215,
+					"averagePrice": 204.457951275657,
+					"saturation": 1.44670353063974,
 					"salesWages": 138
 				}
 			]
@@ -441,7 +441,7 @@
 					"modeledUnitsSoldAnHour": 1,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"saturation": 1.2136967009639446,
+					"saturation": 1.2153088814700643,
 					"salesWages": 586.5
 				}
 			]
@@ -490,8 +490,8 @@
 					"modeledUnitsSoldAnHour": 110,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 14.619089632904886,
-					"saturation": 1.3784587158589723,
+					"averagePrice": 14.827129919220996,
+					"saturation": 1.3801049362874211,
 					"salesWages": 138
 				}
 			]
@@ -562,7 +562,7 @@
 					"modeledUnitsSoldAnHour": 1,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"saturation": 1.3273340391555326,
+					"saturation": 1.330385571388321,
 					"salesWages": 586.5
 				}
 			]
@@ -605,8 +605,8 @@
 					"modeledUnitsSoldAnHour": 2,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 838.2522055045348,
-					"saturation": 0.7734016893219837,
+					"averagePrice": 846.3987852870099,
+					"saturation": 0.7795134710786237,
 					"salesWages": 172.5
 				}
 			]
@@ -634,8 +634,8 @@
 					"modeledUnitsSoldAnHour": 30,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 33.38158869133374,
-					"saturation": 0.8310187762684452,
+					"averagePrice": 33.670332861131115,
+					"saturation": 0.8335869249451417,
 					"salesWages": 310.5
 				}
 			]
@@ -723,8 +723,8 @@
 					"modeledUnitsSoldAnHour": 35,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 50.660053134974795,
-					"saturation": 1.5002896817799647,
+					"averagePrice": 50.95821838312451,
+					"saturation": 1.4982053953517094,
 					"salesWages": 138
 				}
 			]
@@ -777,8 +777,8 @@
 					"modeledUnitsSoldAnHour": 30,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 60.859415774342104,
-					"saturation": 1.2727157198131775,
+					"averagePrice": 61.586586900133504,
+					"saturation": 1.266297596072199,
 					"salesWages": 310.5
 				}
 			]
@@ -839,7 +839,7 @@
 					"modeledUnitsSoldAnHour": 1,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"saturation": 1.2999378456037276,
+					"saturation": 1.3026487349269877,
 					"salesWages": 586.5
 				}
 			]
@@ -918,8 +918,8 @@
 					"modeledUnitsSoldAnHour": 0.8,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 1320.7357343345113,
-					"saturation": 0.871733754464989,
+					"averagePrice": 1318.7924771750347,
+					"saturation": 0.8702780189788062,
 					"salesWages": 172.5
 				}
 			]
@@ -958,8 +958,8 @@
 					"modeledUnitsSoldAnHour": 1.8,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 1199.1863375616813,
-					"saturation": 0.6913216603178326,
+					"averagePrice": 1205.733366780184,
+					"saturation": 0.6934338008666345,
 					"salesWages": 172.5
 				}
 			]
@@ -999,8 +999,8 @@
 					"modeledUnitsSoldAnHour": 40,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 211.20686032498298,
-					"saturation": 0.6084002243810223,
+					"averagePrice": 213.168842957918,
+					"saturation": 0.6272785636509061,
 					"salesWages": 172.5
 				}
 			]
@@ -1045,8 +1045,8 @@
 					"modeledUnitsSoldAnHour": 5,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 408.65900325732906,
-					"saturation": 1.3688967265764111,
+					"averagePrice": 411.5246239554318,
+					"saturation": 1.2568620854452797,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1057,8 +1057,8 @@
 					"modeledUnitsSoldAnHour": 2.5,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 705.8703140830801,
-					"saturation": 1.4173508859762403,
+					"averagePrice": 899.2554029850745,
+					"saturation": 1.6419379366524507,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1070,7 +1070,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 2097.3079619995474,
-					"saturation": 2.0829981934389346,
+					"saturation": 1.7989529852427164,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1081,8 +1081,8 @@
 					"modeledUnitsSoldAnHour": 0.625,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 1636.1666666666667,
-					"saturation": 3.1510326564162523,
+					"averagePrice": 1636.2,
+					"saturation": 2.734651449253646,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1094,7 +1094,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 5861,
-					"saturation": 2.0061817577557237,
+					"saturation": 1.7326115180617614,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1106,7 +1106,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 12758.181046676096,
-					"saturation": 3.3062414345939932,
+					"saturation": 2.8553903298766308,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1118,7 +1118,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 24090.516863775734,
-					"saturation": 7.471538757705051,
+					"saturation": 6.452692563472544,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1130,7 +1130,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 50975.046975546975,
-					"saturation": 5.546827551056283,
+					"saturation": 4.790441975912244,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1142,7 +1142,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 94603.65714285715,
-					"saturation": 1.8764612109407406,
+					"saturation": 1.6205801367215487,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1154,7 +1154,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 169760.31818181818,
-					"saturation": 4.756665888592344,
+					"saturation": 4.108029631057024,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1165,8 +1165,8 @@
 					"modeledUnitsSoldAnHour": 0.0048828125,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 341230,
-					"saturation": 1.6164676881324127,
+					"averagePrice": 424832.0489510489,
+					"saturation": 7.484437638879771,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1178,7 +1178,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 754333.1538461539,
-					"saturation": 2.579311683619841,
+					"saturation": 2.227587363126226,
 					"salesWages": 241.49999999999997
 				},
 				{
@@ -1190,7 +1190,7 @@
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
 					"averagePrice": 1567603.1875,
-					"saturation": 3.5294253180730286,
+					"saturation": 3.048140047426706,
 					"salesWages": 241.49999999999997
 				}
 			]
@@ -1233,8 +1233,8 @@
 					"modeledUnitsSoldAnHour": 1,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 6433.5940427199685,
-					"saturation": 0.5235367223479321,
+					"averagePrice": 6510.169197898019,
+					"saturation": 0.5266613883772541,
 					"salesWages": 379.50000000000006
 				}
 			]
@@ -1261,8 +1261,8 @@
 					"modeledUnitsSoldAnHour": 25,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 31.106512751898016,
-					"saturation": 1.110203279402184,
+					"averagePrice": 31.21470824115845,
+					"saturation": 1.112545739802991,
 					"salesWages": 310.5
 				}
 			]
@@ -1343,8 +1343,8 @@
 					"modeledUnitsSoldAnHour": 30,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 123.81099036166704,
-					"saturation": 0.6259268109921637,
+					"averagePrice": 127.67888036197218,
+					"saturation": 0.6449306791085891,
 					"salesWages": 172.5
 				}
 			]
@@ -1393,8 +1393,8 @@
 					"modeledUnitsSoldAnHour": 12,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 69.98296028824095,
-					"saturation": 1.4086467806873555,
+					"averagePrice": 69.05312583804697,
+					"saturation": 1.3812985838429213,
 					"salesWages": 207
 				}
 			]
@@ -1443,8 +1443,8 @@
 					"modeledUnitsSoldAnHour": 400,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 12.396683025456271,
-					"saturation": 0.8625859401290105,
+					"averagePrice": 12.892032146727637,
+					"saturation": 0.8766558288243139,
 					"salesWages": 241.49999999999997
 				}
 			]
