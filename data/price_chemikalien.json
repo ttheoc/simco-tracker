@@ -3,68 +3,74 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-10-19T12:03:08.171731Z",
+			"datetime": "2026-10-20T10:36:14.230256Z",
 			"price": 13.8
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-10-19T11:53:05.208658Z",
-			"price": 13.9
+			"datetime": "2026-10-20T10:44:33.749759Z",
+			"price": 13.8
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-10-19T12:02:37.696456Z",
-			"price": 14
+			"datetime": "2026-10-20T10:18:42.542593Z",
+			"price": 13.8
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-10-19T11:33:46.198459Z",
-			"price": 14.1
+			"datetime": "2026-10-20T10:45:24.188449Z",
+			"price": 14.2
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-10-19T12:02:37.696456Z",
-			"price": 14.1
+			"datetime": "2026-10-20T10:45:46.518186Z",
+			"price": 14.3
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-10-19T11:48:49.918715Z",
-			"price": 14.7
+			"datetime": "2026-10-20T08:18:41.051182Z",
+			"price": 14.5
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-10-19T06:56:18.083363Z",
+			"datetime": "2026-10-20T10:36:25.821843Z",
 			"price": 14.5
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-10-19T08:35:06.449823Z",
-			"price": 14.7
+			"datetime": "2026-10-20T07:18:01.865773Z",
+			"price": 14.6
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-10-19T09:12:15.130652Z",
+			"datetime": "2026-10-20T00:41:00.922925Z",
 			"price": 14
 		},
 		{
 			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-10-19T04:03:09.164176Z",
-			"price": 14.7
+			"datetime": "2026-10-20T08:28:15.273048Z",
+			"price": 14.6
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-10-19T10:00:54.537835Z",
-			"price": 14.8
+			"datetime": "2026-10-20T06:07:21.70289Z",
+			"price": 14.7
+		},
+		{
+			"resourceId": 17,
+			"quality": 12,
+			"datetime": "2026-10-20T02:21:28.861382Z",
+			"price": 14.7
 		}
 	]
 }
