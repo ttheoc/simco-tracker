@@ -3,67 +3,67 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-10-20T10:36:14.230256Z",
-			"price": 13.8
+			"datetime": "2026-10-21T11:04:27.636979Z",
+			"price": 14
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-10-20T10:44:33.749759Z",
-			"price": 13.8
-		},
-		{
-			"resourceId": 17,
-			"quality": 2,
-			"datetime": "2026-10-20T10:18:42.542593Z",
-			"price": 13.8
-		},
-		{
-			"resourceId": 17,
-			"quality": 3,
-			"datetime": "2026-10-20T10:45:24.188449Z",
-			"price": 14.2
-		},
-		{
-			"resourceId": 17,
-			"quality": 4,
-			"datetime": "2026-10-20T10:45:46.518186Z",
+			"datetime": "2026-10-21T11:04:16.064475Z",
 			"price": 14.3
 		},
 		{
 			"resourceId": 17,
+			"quality": 2,
+			"datetime": "2026-10-21T11:04:08.822665Z",
+			"price": 14.5
+		},
+		{
+			"resourceId": 17,
+			"quality": 3,
+			"datetime": "2026-10-21T11:02:31.305471Z",
+			"price": 14.6
+		},
+		{
+			"resourceId": 17,
+			"quality": 4,
+			"datetime": "2026-10-21T11:01:10.310224Z",
+			"price": 14.6
+		},
+		{
+			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-10-20T08:18:41.051182Z",
+			"datetime": "2026-10-21T10:01:23.12803Z",
 			"price": 14.5
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-10-20T10:36:25.821843Z",
-			"price": 14.5
+			"datetime": "2026-10-21T09:37:24.496549Z",
+			"price": 14.7
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-10-20T07:18:01.865773Z",
+			"datetime": "2026-10-20T21:27:57.802399Z",
 			"price": 14.6
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-10-20T00:41:00.922925Z",
-			"price": 14
+			"datetime": "2026-10-21T09:17:10.383222Z",
+			"price": 14.2
 		},
 		{
 			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-10-20T08:28:15.273048Z",
-			"price": 14.6
+			"datetime": "2026-10-21T04:23:41.048026Z",
+			"price": 14.9
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-10-20T06:07:21.70289Z",
+			"datetime": "2026-10-20T20:00:17.033728Z",
 			"price": 14.7
 		},
 		{
