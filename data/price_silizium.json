@@ -3,56 +3,56 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-10-23T10:54:20.366005Z",
-			"price": 7.4
+			"datetime": "2026-10-24T10:13:53.865988Z",
+			"price": 7.3
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-10-23T10:45:48.624622Z",
+			"datetime": "2026-10-24T10:10:28.748608Z",
 			"price": 7.5
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-10-23T10:46:33.458073Z",
-			"price": 7.6
+			"datetime": "2026-10-24T10:13:53.865988Z",
+			"price": 7.2
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-10-23T10:31:16.41899Z",
+			"datetime": "2026-10-24T10:01:59.584851Z",
 			"price": 7.6
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-10-23T10:40:50.680262Z",
-			"price": 7.7
-		},
-		{
-			"resourceId": 16,
-			"quality": 5,
-			"datetime": "2026-10-23T10:00:19.514086Z",
-			"price": 7.7
-		},
-		{
-			"resourceId": 16,
-			"quality": 6,
-			"datetime": "2026-10-23T07:24:13.839374Z",
+			"datetime": "2026-10-24T09:54:49.973742Z",
 			"price": 7.8
 		},
 		{
 			"resourceId": 16,
+			"quality": 5,
+			"datetime": "2026-10-24T10:12:39.957543Z",
+			"price": 8
+		},
+		{
+			"resourceId": 16,
+			"quality": 6,
+			"datetime": "2026-10-24T06:35:20.615017Z",
+			"price": 8.1
+		},
+		{
+			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-10-23T06:41:28.904637Z",
-			"price": 7.7
+			"datetime": "2026-10-23T17:09:44.552683Z",
+			"price": 8.4
 		},
 		{
 			"resourceId": 16,
 			"quality": 8,
-			"datetime": "2026-10-23T08:08:52.177965Z",
-			"price": 7.9
+			"datetime": "2026-10-24T03:32:58.636689Z",
+			"price": 8.5
 		},
 		{
 			"resourceId": 16,
@@ -63,14 +63,14 @@
 		{
 			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-10-23T01:03:50.54244Z",
-			"price": 7.8
+			"datetime": "2026-10-24T07:17:42.128113Z",
+			"price": 8.9
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-10-23T08:08:52.177965Z",
-			"price": 7.9
+			"datetime": "2026-10-23T21:53:10.224609Z",
+			"price": 9
 		}
 	]
 }
