@@ -3,74 +3,74 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.366591
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 7.4514356
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.5293455
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 7.5604486
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.5585623
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 7.6656604
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.5812163
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 7.7481146
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.6970277
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 7.8008013
 		},
 		{
 			"resourceId": 16,
 			"quality": 5,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.775818
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 7.930154
 		},
 		{
 			"resourceId": 16,
 			"quality": 6,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.923178
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 7.998386
 		},
 		{
 			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.713829
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 8.4
 		},
 		{
 			"resourceId": 16,
 			"quality": 8,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.898443
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 8.5
 		},
 		{
 			"resourceId": 16,
 			"quality": 9,
-			"datetime": "2026-10-22T00:00:00Z",
-			"vwap": 7.694418
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 8
 		},
 		{
 			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 8.364061
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 8.473849
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-10-23T00:00:00Z",
-			"vwap": 7.9341884
+			"datetime": "2026-10-24T00:00:00Z",
+			"vwap": 8.202258
 		}
 	]
 }

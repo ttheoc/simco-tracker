@@ -11,21 +11,21 @@
 		"dateReset": "0001-01-01T00:00:00Z",
 		"country": "DE",
 		"rank": 405,
-		"evaRank": 26180,
+		"evaRank": 26027,
 		"rating": "AAA",
-		"value": 973969423,
+		"value": 983119388,
 		"buildingValue": 17964150,
 		"totalBuildings": 19,
 		"workers": 21300,
 		"administrationOverhead": 2.2470588235294118,
 		"patentsValue": 303613200,
-		"bondsSold": 9000000,
+		"bondsSold": 6000000,
 		"buildings": {
 			"3": 1,
 			"L": 16,
 			"t": 1,
 			"y": 1
 		},
-		"updatedAt": "2026-10-24T00:00:00Z"
+		"updatedAt": "2026-10-25T00:00:00Z"
 	}
 }
