@@ -6,14 +6,14 @@
 		"lastPage": 4,
 		"totalRecords": 151
 	},
-	"phase": "normal",
+	"phase": "boom",
 	"resources": [
 		{
 			"id": 30,
 			"isResearch": false,
 			"transportation": 0,
 			"name": "Energy research",
-			"producedAnHour": 3.3038359820105594,
+			"producedAnHour": 2.971799348184244,
 			"wages": 586.5,
 			"inputs": {}
 		},
@@ -22,7 +22,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Ethanol",
-			"producedAnHour": 60.94032114380477,
+			"producedAnHour": 58.33967099861033,
 			"wages": 241.49999999999997,
 			"inputs": {
 				"1": {
@@ -40,7 +40,7 @@
 			"isResearch": false,
 			"transportation": 0.5,
 			"name": "Fabric",
-			"producedAnHour": 241.12286782859513,
+			"producedAnHour": 235.18797199846404,
 			"wages": 138,
 			"inputs": {
 				"1": {
@@ -58,7 +58,7 @@
 			"isResearch": false,
 			"transportation": 0,
 			"name": "Fashion research",
-			"producedAnHour": 6.776201204725691,
+			"producedAnHour": 6.249000945827539,
 			"wages": 448.5,
 			"inputs": {}
 		},
@@ -67,7 +67,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Flight computer",
-			"producedAnHour": 2.2631545648229796,
+			"producedAnHour": 1.9856007439937775,
 			"wages": 724.5,
 			"inputs": {
 				"47": {
@@ -85,8 +85,7 @@
 			"isResearch": false,
 			"transportation": 0.1,
 			"name": "Flour",
-			"producedAnHour": 74.15931117485154,
-			"speedModifier": -15,
+			"producedAnHour": 81.46718414849833,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"6": {
@@ -100,7 +99,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Fodder",
-			"producedAnHour": 284.69828438642696,
+			"producedAnHour": 265.8402851161525,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"120": {
@@ -118,7 +117,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Frozen pizza",
-			"producedAnHour": 9.183815625368613,
+			"producedAnHour": 8.575493068262983,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"120": {
@@ -141,14 +140,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.8391977205507947,
-					"modeledProductionCostPerUnit": 272.1983540854805,
+					"buildingLevelsNeededPerUnitPerHour": 0.8900619032963407,
+					"modeledProductionCostPerUnit": 291.3377876697846,
 					"modeledStoreWages": 151.8,
 					"modeledUnitsSoldAnHour": 10,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 529.125168533774,
-					"saturation": 1.406891846137713,
+					"averagePrice": 521.9585127227416,
+					"saturation": 1.4242581770235296,
 					"salesWages": 138
 				}
 			]
@@ -158,7 +157,7 @@
 			"isResearch": false,
 			"transportation": 2,
 			"name": "Fuselage",
-			"producedAnHour": 3.3038359820105594,
+			"producedAnHour": 2.971799348184244,
 			"wages": 586.5,
 			"inputs": {
 				"76": {
@@ -172,7 +171,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Ginger beer",
-			"producedAnHour": 73.12838537256573,
+			"producedAnHour": 70.00760519833239,
 			"wages": 241.49999999999997,
 			"inputs": {
 				"120": {
@@ -191,14 +190,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.10544057868625505,
-					"modeledProductionCostPerUnit": 28.81633560579997,
+					"buildingLevelsNeededPerUnitPerHour": 0.11080211503771163,
+					"modeledProductionCostPerUnit": 30.580190541276366,
 					"modeledStoreWages": 151.8,
 					"modeledUnitsSoldAnHour": 10,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 90.59363651404372,
-					"saturation": 1.303718830484554,
+					"averagePrice": 90.61185560500309,
+					"saturation": 1.3014510050623698,
 					"salesWages": 138
 				}
 			]
@@ -208,7 +207,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Glass",
-			"producedAnHour": 128.34723610551146,
+			"producedAnHour": 119.10133829576242,
 			"wages": 414,
 			"inputs": {
 				"1": {
@@ -226,7 +225,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Gloves",
-			"producedAnHour": 117.39669627404726,
+			"producedAnHour": 114.50714386675219,
 			"speedModifier": -18,
 			"wages": 138,
 			"inputs": {
@@ -242,14 +241,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.06148171668974752,
-					"modeledProductionCostPerUnit": 9.394549459952708,
+					"buildingLevelsNeededPerUnitPerHour": 0.06320918648256162,
+					"modeledProductionCostPerUnit": 9.739492806669688,
 					"modeledStoreWages": 341.55,
 					"modeledUnitsSoldAnHour": 20,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 53.99008325713533,
-					"saturation": 1.1611807479502883,
+					"averagePrice": 54.17375407500371,
+					"saturation": 1.1519700827740182,
 					"salesWages": 310.5
 				}
 			]
@@ -259,7 +258,7 @@
 			"isResearch": false,
 			"transportation": 10,
 			"name": "Gold ore",
-			"producedAnHour": 56.7775755760607,
+			"producedAnHour": 54.016974778076474,
 			"wages": 276,
 			"inputs": {
 				"1": {
@@ -277,7 +276,7 @@
 			"isResearch": false,
 			"transportation": 1000,
 			"name": "Golden bars",
-			"producedAnHour": 29.94768842461934,
+			"producedAnHour": 27.79031226901123,
 			"wages": 414,
 			"inputs": {
 				"1": {
@@ -295,7 +294,7 @@
 			"isResearch": false,
 			"transportation": 0.1,
 			"name": "Grain",
-			"producedAnHour": 808.7537669749333,
+			"producedAnHour": 793.777613749619,
 			"wages": 103.5,
 			"inputs": {
 				"2": {
@@ -313,7 +312,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Grapes",
-			"producedAnHour": 161.75075339498665,
+			"producedAnHour": 158.7555227499238,
 			"wages": 103.5,
 			"inputs": {
 				"2": {
@@ -328,14 +327,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.010146722009585872,
-					"modeledProductionCostPerUnit": 1.7581615627211524,
+					"buildingLevelsNeededPerUnitPerHour": 0.010471425781758723,
+					"modeledProductionCostPerUnit": 1.8386047785296857,
 					"modeledStoreWages": 151.8,
 					"modeledUnitsSoldAnHour": 80,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 7.258500697496951,
-					"saturation": 1.4311782410191034,
+					"averagePrice": 7.363676348480621,
+					"saturation": 1.443203581256246,
 					"salesWages": 138
 				}
 			]
@@ -345,7 +344,7 @@
 			"isResearch": false,
 			"transportation": 2,
 			"name": "Hamburger",
-			"producedAnHour": 0.5214347857459736,
+			"producedAnHour": 0.46322219277793125,
 			"wages": 655.5,
 			"inputs": {
 				"120": {
@@ -372,8 +371,8 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 2.661019290483073,
-					"modeledProductionCostPerUnit": 1464.6718224271067,
+					"buildingLevelsNeededPerUnitPerHour": 2.940748198824688,
+					"modeledProductionCostPerUnit": 1636.5365742618942,
 					"modeledStoreWages": 645.15,
 					"modeledUnitsSoldAnHour": 0,
 					"retailModelingQualityWeight": 0.3,
@@ -387,7 +386,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Handbags",
-			"producedAnHour": 67.81580657679238,
+			"producedAnHour": 66.14661712456801,
 			"wages": 138,
 			"inputs": {
 				"46": {
@@ -398,14 +397,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.15418093353842224,
-					"modeledProductionCostPerUnit": 23.87120299919537,
+					"buildingLevelsNeededPerUnitPerHour": 0.15857159912648722,
+					"modeledProductionCostPerUnit": 24.761483373752256,
 					"modeledStoreWages": 341.55,
 					"modeledUnitsSoldAnHour": 20,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 83.56439446866614,
-					"saturation": 1.3772653787855487,
+					"averagePrice": 83.98738572484775,
+					"saturation": 1.3746863259374686,
 					"salesWages": 310.5
 				}
 			]
@@ -415,7 +414,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Heat shield",
-			"producedAnHour": 12.013949025492943,
+			"producedAnHour": 10.806543084306341,
 			"wages": 586.5,
 			"inputs": {
 				"16": {
@@ -433,7 +432,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "High grade e-comps",
-			"producedAnHour": 1.8367631250737224,
+			"producedAnHour": 1.7150986136525965,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"16": {
@@ -455,7 +454,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Ion drive",
-			"producedAnHour": 0.5596646735354555,
+			"producedAnHour": 0.5002914442533257,
 			"wages": 621,
 			"inputs": {
 				"17": {
@@ -477,7 +476,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Iron ore",
-			"producedAnHour": 181.68824184339425,
+			"producedAnHour": 172.85431928984474,
 			"wages": 276,
 			"inputs": {
 				"1": {
@@ -495,7 +494,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Jack o'lantern",
-			"producedAnHour": 284.69828438642696,
+			"producedAnHour": 265.8402851161525,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"146": {
@@ -510,14 +509,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.05804296445981941,
-					"modeledProductionCostPerUnit": 19.229819239298102,
+					"buildingLevelsNeededPerUnitPerHour": 0.061633601965749615,
+					"modeledProductionCostPerUnit": 20.5508027491059,
 					"modeledStoreWages": 227.7,
 					"modeledUnitsSoldAnHour": 40,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 48.035653085229086,
-					"saturation": 1.1777482376764261,
+					"averagePrice": 48.473581289964955,
+					"saturation": 1.1621940974647964,
 					"salesWages": 207
 				}
 			]
@@ -527,7 +526,8 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Jet engine",
-			"producedAnHour": 0.8394970103031831,
+			"producedAnHour": 0.9530552013025855,
+			"speedModifier": 27,
 			"wages": 621,
 			"inputs": {
 				"18": {
@@ -545,7 +545,7 @@
 			"isResearch": false,
 			"transportation": 2000,
 			"name": "Jumbo jet",
-			"producedAnHour": 0.0632568520805735,
+			"producedAnHour": 0.05515431102286983,
 			"wages": 759.0000000000001,
 			"inputs": {
 				"50": {
@@ -572,13 +572,13 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 286.1840844922776,
-					"modeledProductionCostPerUnit": 129421.73354727181,
+					"buildingLevelsNeededPerUnitPerHour": 310.61205045315023,
+					"modeledProductionCostPerUnit": 141295.8589481298,
 					"modeledStoreWages": 645.15,
 					"modeledUnitsSoldAnHour": 1,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"saturation": 1.3186471962005106,
+					"saturation": 1.3185330619465716,
 					"salesWages": 586.5
 				}
 			]
@@ -588,7 +588,7 @@
 			"isResearch": false,
 			"transportation": 2,
 			"name": "Laptops",
-			"producedAnHour": 9.183815625368613,
+			"producedAnHour": 8.575493068262983,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"19": {
@@ -615,14 +615,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 1.6876114585927768,
-					"modeledProductionCostPerUnit": 638.1754481232036,
+					"buildingLevelsNeededPerUnitPerHour": 1.806956074039177,
+					"modeledProductionCostPerUnit": 684.0749931167466,
 					"modeledStoreWages": 189.75,
 					"modeledUnitsSoldAnHour": 1.2,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 1632.4939829810628,
-					"saturation": 0.7547982967383645,
+					"averagePrice": 1646.2138488676246,
+					"saturation": 0.7656929061849915,
 					"salesWages": 172.5
 				}
 			]
@@ -632,7 +632,7 @@
 			"isResearch": false,
 			"transportation": 2,
 			"name": "Lasagna",
-			"producedAnHour": 1.5643043572379207,
+			"producedAnHour": 1.3896665783337938,
 			"wages": 655.5,
 			"inputs": {
 				"122": {
@@ -655,8 +655,8 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 2.3570040173857527,
-					"modeledProductionCostPerUnit": 1380.694744516906,
+					"buildingLevelsNeededPerUnitPerHour": 2.621038004532034,
+					"modeledProductionCostPerUnit": 1546.62091524684,
 					"modeledStoreWages": 645.15,
 					"modeledUnitsSoldAnHour": 0,
 					"retailModelingQualityWeight": 0.3,
@@ -670,7 +670,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Leather",
-			"producedAnHour": 30.14035847857439,
+			"producedAnHour": 29.398496499808005,
 			"wages": 138,
 			"inputs": {
 				"115": {
@@ -684,7 +684,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Limestone",
-			"producedAnHour": 794.8860580648499,
+			"producedAnHour": 756.2376468930706,
 			"wages": 276,
 			"inputs": {
 				"1": {
@@ -698,7 +698,7 @@
 			"isResearch": false,
 			"transportation": 5,
 			"name": "Luxury car",
-			"producedAnHour": 1.9930003543310857,
+			"producedAnHour": 1.8379414546551585,
 			"wages": 448.5,
 			"inputs": {
 				"47": {
@@ -721,14 +721,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 6.186137630842201,
-					"modeledProductionCostPerUnit": 2339.553506039372,
+					"buildingLevelsNeededPerUnitPerHour": 6.624539912971594,
+					"modeledProductionCostPerUnit": 2517.941412795971,
 					"modeledStoreWages": 417.45000000000005,
 					"modeledUnitsSoldAnHour": 0.5,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 6269.481888205275,
-					"saturation": 0.6284573631165575,
+					"averagePrice": 6273.761431590886,
+					"saturation": 0.6312088685046939,
 					"salesWages": 379.50000000000006
 				}
 			]
@@ -738,7 +738,7 @@
 			"isResearch": false,
 			"transportation": 2,
 			"name": "Luxury car interior",
-			"producedAnHour": 23.91600425197303,
+			"producedAnHour": 22.0552974558619,
 			"speedModifier": 20,
 			"wages": 448.5,
 			"inputs": {
@@ -761,7 +761,7 @@
 			"isResearch": false,
 			"transportation": 5,
 			"name": "Luxury e-car",
-			"producedAnHour": 3.9860007086621714,
+			"producedAnHour": 3.675882909310317,
 			"wages": 448.5,
 			"inputs": {
 				"22": {
@@ -788,14 +788,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 9.427646261288189,
-					"modeledProductionCostPerUnit": 3441.633210109271,
+					"buildingLevelsNeededPerUnitPerHour": 10.071182507322568,
+					"modeledProductionCostPerUnit": 3688.3101754550285,
 					"modeledStoreWages": 417.45000000000005,
 					"modeledUnitsSoldAnHour": 0.5,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 8612.950879358223,
-					"saturation": 0.6884296891218706,
+					"averagePrice": 8683.183171465405,
+					"saturation": 0.6929218262406617,
 					"salesWages": 379.50000000000006
 				}
 			]
@@ -805,7 +805,7 @@
 			"isResearch": false,
 			"transportation": 1000,
 			"name": "Luxury jet",
-			"producedAnHour": 0.16868493888152936,
+			"producedAnHour": 0.1470781627276529,
 			"wages": 759.0000000000001,
 			"inputs": {
 				"69": {
@@ -832,13 +832,13 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 99.70501453558225,
-					"modeledProductionCostPerUnit": 45536.191330114205,
+					"buildingLevelsNeededPerUnitPerHour": 108.29969456516848,
+					"modeledProductionCostPerUnit": 49712.62344415295,
 					"modeledStoreWages": 645.15,
 					"modeledUnitsSoldAnHour": 1,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"saturation": 1.28281076372333,
+					"saturation": 1.2819766209319274,
 					"salesWages": 586.5
 				}
 			]
@@ -848,7 +848,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Luxury watch",
-			"producedAnHour": 18.837724049108996,
+			"producedAnHour": 18.374060312380003,
 			"wages": 138,
 			"inputs": {
 				"21": {
@@ -867,14 +867,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 1.254733304893077,
-					"modeledProductionCostPerUnit": 445.2390620197452,
+					"buildingLevelsNeededPerUnitPerHour": 1.3379028282176826,
+					"modeledProductionCostPerUnit": 476.2005787312076,
 					"modeledStoreWages": 341.55,
 					"modeledUnitsSoldAnHour": 3,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 1078.6796400802607,
-					"saturation": 0.9681743953258978,
+					"averagePrice": 1084.846035299505,
+					"saturation": 0.9940517631746094,
 					"salesWages": 310.5
 				}
 			]
@@ -884,7 +884,7 @@
 			"isResearch": false,
 			"transportation": 0,
 			"name": "Materials research",
-			"producedAnHour": 3.422592962813639,
+			"producedAnHour": 3.1760356878869977,
 			"wages": 414,
 			"inputs": {}
 		},
@@ -893,7 +893,7 @@
 			"isResearch": false,
 			"transportation": 2,
 			"name": "Meat balls",
-			"producedAnHour": 1.0428695714919471,
+			"producedAnHour": 0.9264443855558625,
 			"wages": 655.5,
 			"inputs": {
 				"121": {
@@ -916,8 +916,8 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 2.7388443758727177,
-					"modeledProductionCostPerUnit": 1623.0358321055742,
+					"buildingLevelsNeededPerUnitPerHour": 3.049264590044103,
+					"modeledProductionCostPerUnit": 1818.5651502869255,
 					"modeledStoreWages": 645.15,
 					"modeledUnitsSoldAnHour": 0,
 					"retailModelingQualityWeight": 0.3,
@@ -931,7 +931,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Methane",
-			"producedAnHour": 55.36069902994857,
+			"producedAnHour": 50.42132059029143,
 			"wages": 517.5,
 			"inputs": {
 				"1": {
@@ -945,7 +945,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Milk",
-			"producedAnHour": 120.56143391429757,
+			"producedAnHour": 117.59398599923202,
 			"wages": 138,
 			"inputs": {
 				"139": {
@@ -960,8 +960,8 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.028038477701024404,
-					"modeledProductionCostPerUnit": 4.644175593378594,
+					"buildingLevelsNeededPerUnitPerHour": 0.02889457851252995,
+					"modeledProductionCostPerUnit": 4.838645440465237,
 					"modeledStoreWages": 645.15,
 					"modeledUnitsSoldAnHour": 0,
 					"retailModelingQualityWeight": 0.3,
@@ -975,7 +975,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Minerals",
-			"producedAnHour": 119.23290870972747,
+			"producedAnHour": 113.4356470339606,
 			"wages": 276,
 			"inputs": {
 				"1": {
@@ -993,7 +993,7 @@
 			"isResearch": false,
 			"transportation": 0,
 			"name": "Mining research",
-			"producedAnHour": 3.0034872563732358,
+			"producedAnHour": 2.7016357710765853,
 			"wages": 586.5,
 			"inputs": {}
 		},
@@ -1002,7 +1002,8 @@
 			"isResearch": false,
 			"transportation": 2,
 			"name": "Monitors",
-			"producedAnHour": 18.367631250737226,
+			"producedAnHour": 12.177200156933434,
+			"speedModifier": -29,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"19": {
@@ -1021,14 +1022,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.774758363447735,
-					"modeledProductionCostPerUnit": 294.1621171806931,
+					"buildingLevelsNeededPerUnitPerHour": 0.8297903706539643,
+					"modeledProductionCostPerUnit": 315.558865731908,
 					"modeledStoreWages": 189.75,
 					"modeledUnitsSoldAnHour": 2,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 821.3999814683726,
-					"saturation": 0.7345371412879633,
+					"averagePrice": 825.4568802630956,
+					"saturation": 0.7382775694719651,
 					"salesWages": 172.5
 				}
 			]
@@ -1038,7 +1039,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Necklace",
-			"producedAnHour": 41.44299290803979,
+			"producedAnHour": 40.422932687236006,
 			"wages": 138,
 			"inputs": {
 				"69": {
@@ -1049,14 +1050,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 2.6108349112010596,
-					"modeledProductionCostPerUnit": 939.3094443646374,
+					"buildingLevelsNeededPerUnitPerHour": 2.786314327525317,
+					"modeledProductionCostPerUnit": 1004.838889058023,
 					"modeledStoreWages": 341.55,
 					"modeledUnitsSoldAnHour": 2,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 2097.3528893067173,
-					"saturation": 1.15764340437716,
+					"averagePrice": 2101.1536716748196,
+					"saturation": 1.1903700144415708,
 					"salesWages": 310.5
 				}
 			]
@@ -1066,7 +1067,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "On-board computer",
-			"producedAnHour": 13.775723438052918,
+			"producedAnHour": 12.863239602394474,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"20": {
@@ -1084,7 +1085,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Orange juice",
-			"producedAnHour": 91.41048171570716,
+			"producedAnHour": 87.5095064979155,
 			"wages": 241.49999999999997,
 			"inputs": {
 				"135": {
@@ -1099,14 +1100,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.08338665867769919,
-					"modeledProductionCostPerUnit": 20.09088128559387,
+					"buildingLevelsNeededPerUnitPerHour": 0.08711715207761611,
+					"modeledProductionCostPerUnit": 21.23520644406057,
 					"modeledStoreWages": 151.8,
 					"modeledUnitsSoldAnHour": 15,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 60.18424320153296,
-					"saturation": 1.3785434864972408,
+					"averagePrice": 61.084706597388916,
+					"saturation": 1.3877640004628744,
 					"salesWages": 138
 				}
 			]
@@ -1116,7 +1117,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Oranges",
-			"producedAnHour": 186.01336640423466,
+			"producedAnHour": 182.5688511624124,
 			"wages": 103.5,
 			"inputs": {
 				"2": {
@@ -1131,14 +1132,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.008647570615670862,
-					"modeledProductionCostPerUnit": 1.4303223605902136,
+					"buildingLevelsNeededPerUnitPerHour": 0.00891148604117326,
+					"modeledProductionCostPerUnit": 1.4930504763260029,
 					"modeledStoreWages": 151.8,
 					"modeledUnitsSoldAnHour": 90,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 6.24591585540433,
-					"saturation": 1.4318970521787147,
+					"averagePrice": 6.350080832074915,
+					"saturation": 1.4353716183955632,
 					"salesWages": 138
 				}
 			]
@@ -1148,7 +1149,7 @@
 			"isResearch": false,
 			"transportation": 100,
 			"name": "Orbital booster",
-			"producedAnHour": 1.5017436281866179,
+			"producedAnHour": 1.3508178855382926,
 			"wages": 586.5,
 			"inputs": {
 				"77": {
@@ -1170,7 +1171,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Pasta",
-			"producedAnHour": 18.367631250737226,
+			"producedAnHour": 17.150986136525965,
 			"wages": 379.50000000000006,
 			"inputs": {
 				"133": {
@@ -1188,7 +1189,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Petrol",
-			"producedAnHour": 111.41168223330178,
+			"producedAnHour": 102.10551636678285,
 			"wages": 482.99999999999994,
 			"inputs": {
 				"1": {
@@ -1207,14 +1208,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.05923092127223874,
-					"modeledProductionCostPerUnit": 24.00011652274248,
+					"buildingLevelsNeededPerUnitPerHour": 0.06374553595360781,
+					"modeledProductionCostPerUnit": 26.026618391472763,
 					"modeledStoreWages": 379.5,
 					"modeledUnitsSoldAnHour": 103,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 52.106323386731304,
-					"saturation": 0.8554763510565746,
+					"averagePrice": 52.38872974897419,
+					"saturation": 0.8641514478182114,
 					"salesWages": 345
 				}
 			]
@@ -1224,7 +1225,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Pigs",
-			"producedAnHour": 82.88598581607958,
+			"producedAnHour": 80.84586537447201,
 			"wages": 138,
 			"inputs": {
 				"139": {
@@ -1242,7 +1243,7 @@
 			"isResearch": false,
 			"transportation": 1,
 			"name": "Planks",
-			"producedAnHour": 115.12540497441184,
+			"producedAnHour": 105.50903357900894,
 			"wages": 482.99999999999994,
 			"inputs": {
 				"106": {
@@ -1253,14 +1254,14 @@
 			"retailInfo": [
 				{
 					"quality": 0,
-					"buildingLevelsNeededPerUnitPerHour": 0.017176103717141112,
-					"modeledProductionCostPerUnit": 5.428119994457215,
+					"buildingLevelsNeededPerUnitPerHour": 0.01819459702524144,
+					"modeledProductionCostPerUnit": 5.857395310305694,
 					"modeledStoreWages": 189.75,
 					"modeledUnitsSoldAnHour": 120,
 					"retailModelingQualityWeight": 0.3,
 					"retailAdjustment": 1,
-					"averagePrice": 13.925356100712303,
-					"saturation": 1.0584156686361625,
+					"averagePrice": 14.043618796668236,
+					"saturation": 1.0582643521220594,
 					"salesWages": 172.5
 				}
 			]
