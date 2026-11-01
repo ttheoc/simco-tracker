@@ -4,16 +4,16 @@
 		"realm": 0,
 		"name": "VCT electronic",
 		"logo": "https://d1fxy698ilbz6u.cloudfront.net/logo/c3455b36eeb81bbaad86095ad099b4db15d59324.png",
-		"level": 55,
+		"level": 56,
 		"tier": 7,
 		"year": 2020,
 		"dateJoined": "2020-12-10T21:30:27.78274Z",
 		"dateReset": "0001-01-01T00:00:00Z",
 		"country": "DE",
-		"rank": 392,
-		"evaRank": 26514,
+		"rank": 390,
+		"evaRank": 26293,
 		"rating": "AAA",
-		"value": 1021624785,
+		"value": 1022915104,
 		"buildingValue": 17964150,
 		"totalBuildings": 19,
 		"workers": 21300,
@@ -26,6 +26,6 @@
 			"t": 1,
 			"y": 1
 		},
-		"updatedAt": "2026-10-31T00:00:00Z"
+		"updatedAt": "2026-11-01T00:00:00Z"
 	}
 }
