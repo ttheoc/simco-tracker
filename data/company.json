@@ -10,22 +10,22 @@
 		"dateJoined": "2020-12-10T21:30:27.78274Z",
 		"dateReset": "0001-01-01T00:00:00Z",
 		"country": "DE",
-		"rank": 390,
-		"evaRank": 26293,
+		"rank": 391,
+		"evaRank": 25225,
 		"rating": "AAA",
-		"value": 1022915104,
+		"value": 1023147775,
 		"buildingValue": 17964150,
 		"totalBuildings": 19,
 		"workers": 21300,
 		"administrationOverhead": 2.2470588235294118,
 		"patentsValue": 303613200,
-		"bondsSold": 6000000,
+		"bondsSold": 5855000,
 		"buildings": {
 			"3": 1,
 			"L": 16,
 			"t": 1,
 			"y": 1
 		},
-		"updatedAt": "2026-11-01T00:00:00Z"
+		"updatedAt": "2026-11-02T00:00:00Z"
 	}
 }
