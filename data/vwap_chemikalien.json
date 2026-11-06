@@ -3,74 +3,80 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.175162
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.282365
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.312832
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.325617
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.332203
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.3848295
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.400452
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.447125
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.446055
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.543273
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.550166
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.599986
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.629704
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.729378
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.607409
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.771983
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.8
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.73833
 		},
 		{
 			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.7
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 16.05
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-11-04T00:00:00Z",
-			"vwap": 15.80287
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 15.822103
+		},
+		{
+			"resourceId": 17,
+			"quality": 11,
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 23.25
 		},
 		{
 			"resourceId": 17,
 			"quality": 12,
-			"datetime": "2026-10-29T00:00:00Z",
-			"vwap": 24
+			"datetime": "2026-11-05T00:00:00Z",
+			"vwap": 23.836966
 		}
 	]
 }
