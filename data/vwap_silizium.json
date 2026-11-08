@@ -3,74 +3,74 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 7.935954
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.002838
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.025535
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.117936
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.120518
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.213384
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.18461
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.213233
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.238916
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.334583
 		},
 		{
 			"resourceId": 16,
 			"quality": 5,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.279804
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.369614
 		},
 		{
 			"resourceId": 16,
 			"quality": 6,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.321574
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.435912
 		},
 		{
 			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.342896
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.435846
 		},
 		{
 			"resourceId": 16,
 			"quality": 8,
-			"datetime": "2026-11-03T00:00:00Z",
+			"datetime": "2026-11-07T00:00:00Z",
 			"vwap": 8.5
 		},
 		{
 			"resourceId": 16,
 			"quality": 9,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.253105
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.391146
 		},
 		{
 			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.36647
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.4
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 8.451779
+			"datetime": "2026-11-07T00:00:00Z",
+			"vwap": 8.47391
 		}
 	]
 }
