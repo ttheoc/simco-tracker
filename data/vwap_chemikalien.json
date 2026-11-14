@@ -3,56 +3,56 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 15.719165
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 15.644821
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 15.831996
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 15.868051
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 15.866452
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 15.912423
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 15.979025
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 15.93493
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 16.019646
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 16.050219
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 16.17502
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 16.145845
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 16.255295
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 16.17496
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 16.457722
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 16.2952
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 16.4
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 16.233147
 		},
 		{
 			"resourceId": 17,
@@ -63,14 +63,8 @@
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 16.5
-		},
-		{
-			"resourceId": 17,
-			"quality": 11,
-			"datetime": "2026-11-06T00:00:00Z",
-			"vwap": 24.75
+			"datetime": "2026-11-13T00:00:00Z",
+			"vwap": 16.176575
 		},
 		{
 			"resourceId": 17,
