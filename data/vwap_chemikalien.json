@@ -3,56 +3,56 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 15.704087
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 15.6098795
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 15.90875
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 15.645292
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 15.933883
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 15.824683
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 15.812123
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 15.885154
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 16.088764
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 15.992352
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 16.24183
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 16.097422
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 16.323385
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 16.191982
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 16.335356
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 16.343594
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 16.57373
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 16.5
 		},
 		{
 			"resourceId": 17,
@@ -63,14 +63,20 @@
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-11-14T00:00:00Z",
-			"vwap": 16.5
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 16.8
+		},
+		{
+			"resourceId": 17,
+			"quality": 11,
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 22.5
 		},
 		{
 			"resourceId": 17,
 			"quality": 12,
-			"datetime": "2026-11-12T00:00:00Z",
-			"vwap": 23
+			"datetime": "2026-11-15T00:00:00Z",
+			"vwap": 22.510038
 		}
 	]
 }
