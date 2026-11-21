@@ -3,68 +3,68 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-11-20T14:42:29.527725Z",
-			"price": 16.6
+			"datetime": "2026-11-21T14:08:53.24716Z",
+			"price": 16.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-11-20T14:46:28.694388Z",
-			"price": 16.6
-		},
-		{
-			"resourceId": 17,
-			"quality": 2,
-			"datetime": "2026-11-20T14:49:56.852036Z",
-			"price": 16.7
-		},
-		{
-			"resourceId": 17,
-			"quality": 3,
-			"datetime": "2026-11-20T14:31:11.116816Z",
+			"datetime": "2026-11-21T14:06:33.61136Z",
 			"price": 16.5
 		},
 		{
 			"resourceId": 17,
+			"quality": 2,
+			"datetime": "2026-11-21T13:49:46.941178Z",
+			"price": 16.6
+		},
+		{
+			"resourceId": 17,
+			"quality": 3,
+			"datetime": "2026-11-21T14:06:33.61136Z",
+			"price": 16.6
+		},
+		{
+			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-11-20T14:42:36.895719Z",
+			"datetime": "2026-11-21T13:53:52.231614Z",
 			"price": 16.7
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-11-20T14:49:56.852036Z",
-			"price": 16.8
+			"datetime": "2026-11-21T10:48:29.756814Z",
+			"price": 17.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-11-20T14:13:02.20968Z",
-			"price": 16.9
-		},
-		{
-			"resourceId": 17,
-			"quality": 7,
-			"datetime": "2026-11-20T07:11:32.563026Z",
-			"price": 17.3
-		},
-		{
-			"resourceId": 17,
-			"quality": 8,
-			"datetime": "2026-11-20T14:31:19.230171Z",
+			"datetime": "2026-11-21T14:05:51.448871Z",
 			"price": 17
 		},
 		{
 			"resourceId": 17,
+			"quality": 7,
+			"datetime": "2026-11-21T03:06:05.422714Z",
+			"price": 17.9
+		},
+		{
+			"resourceId": 17,
+			"quality": 8,
+			"datetime": "2026-11-21T05:09:31.824901Z",
+			"price": 18
+		},
+		{
+			"resourceId": 17,
 			"quality": 9,
-			"datetime": "2026-11-20T06:11:26.483203Z",
-			"price": 18.6
+			"datetime": "2026-11-21T04:36:30.021206Z",
+			"price": 18.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-11-19T18:47:42.247717Z",
-			"price": 16.1
+			"datetime": "2026-11-21T01:14:51.132489Z",
+			"price": 17.2
 		}
 	]
 }
