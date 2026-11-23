@@ -3,55 +3,55 @@
 		{
 			"resourceId": 17,
 			"quality": 0,
-			"datetime": "2026-11-22T13:53:10.152181Z",
-			"price": 16.9
+			"datetime": "2026-11-23T17:19:05.640091Z",
+			"price": 16
 		},
 		{
 			"resourceId": 17,
 			"quality": 1,
-			"datetime": "2026-11-22T13:46:36.795357Z",
-			"price": 17
+			"datetime": "2026-11-23T17:18:00.058876Z",
+			"price": 16.8
 		},
 		{
 			"resourceId": 17,
 			"quality": 2,
-			"datetime": "2026-11-22T13:56:13.203937Z",
-			"price": 16.9
+			"datetime": "2026-11-23T17:13:13.852264Z",
+			"price": 16.8
 		},
 		{
 			"resourceId": 17,
 			"quality": 3,
-			"datetime": "2026-11-22T14:00:01.450264Z",
+			"datetime": "2026-11-23T17:19:09.482726Z",
 			"price": 16.9
 		},
 		{
 			"resourceId": 17,
 			"quality": 4,
-			"datetime": "2026-11-22T13:58:35.522638Z",
-			"price": 17
+			"datetime": "2026-11-23T16:24:27.326605Z",
+			"price": 17.1
 		},
 		{
 			"resourceId": 17,
 			"quality": 5,
-			"datetime": "2026-11-22T13:33:43.509593Z",
-			"price": 17.4
+			"datetime": "2026-11-23T17:12:09.001979Z",
+			"price": 17.3
 		},
 		{
 			"resourceId": 17,
 			"quality": 6,
-			"datetime": "2026-11-22T12:36:11.707661Z",
-			"price": 17.2
+			"datetime": "2026-11-23T14:26:19.642712Z",
+			"price": 17.3
 		},
 		{
 			"resourceId": 17,
 			"quality": 7,
-			"datetime": "2026-11-22T13:44:51.694801Z",
-			"price": 17.7
+			"datetime": "2026-11-23T17:02:05.198416Z",
+			"price": 17.4
 		},
 		{
 			"resourceId": 17,
 			"quality": 8,
-			"datetime": "2026-11-22T04:27:18.224077Z",
+			"datetime": "2026-11-22T20:30:47.943059Z",
 			"price": 17.8
 		},
 		{
@@ -63,7 +63,7 @@
 		{
 			"resourceId": 17,
 			"quality": 10,
-			"datetime": "2026-11-22T06:26:42.137435Z",
+			"datetime": "2026-11-23T04:41:57.830852Z",
 			"price": 17.9
 		}
 	]
