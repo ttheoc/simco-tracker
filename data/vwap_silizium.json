@@ -3,50 +3,50 @@
 		{
 			"resourceId": 16,
 			"quality": 0,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.186698
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.241012
 		},
 		{
 			"resourceId": 16,
 			"quality": 1,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.319768
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.418405
 		},
 		{
 			"resourceId": 16,
 			"quality": 2,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.403974
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.428028
 		},
 		{
 			"resourceId": 16,
 			"quality": 3,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.457101
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.401623
 		},
 		{
 			"resourceId": 16,
 			"quality": 4,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.509504
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.55509
 		},
 		{
 			"resourceId": 16,
 			"quality": 5,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.548811
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.598295
 		},
 		{
 			"resourceId": 16,
 			"quality": 6,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.582907
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.587666
 		},
 		{
 			"resourceId": 16,
 			"quality": 7,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.621461
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.6
 		},
 		{
 			"resourceId": 16,
@@ -57,20 +57,26 @@
 		{
 			"resourceId": 16,
 			"quality": 9,
-			"datetime": "2026-11-17T00:00:00Z",
-			"vwap": 8.498315
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.672553
+		},
+		{
+			"resourceId": 16,
+			"quality": 10,
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 11,
-			"datetime": "2026-11-21T00:00:00Z",
-			"vwap": 8.584916
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.7
 		},
 		{
 			"resourceId": 16,
 			"quality": 12,
-			"datetime": "2026-11-22T00:00:00Z",
-			"vwap": 8.682014
+			"datetime": "2026-11-23T00:00:00Z",
+			"vwap": 8.744273
 		}
 	]
 }
